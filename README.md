@@ -31,10 +31,35 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 — Mona the Octocat
 
-### comment example
+### comment and code block example
 <!-- TO DO: add more details about me later -->
 
+Use `git status` to list all new or modified files that haven't yet been committed.
 
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+
+### Link example
+
+This site was built using [GitHub Pages](https://pages.github.com/).
+
+### display image example
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
+### List example
+
+- George Washington
+* John Adams
++ Thomas Jefferson
+
+- [ ] task list example
+
+        
 ### Jekyll Themes
 
 This page use Jekyll Themes
